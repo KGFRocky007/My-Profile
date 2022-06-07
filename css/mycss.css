@@ -1,0 +1,103 @@
+/* list style  */
+#list
+{
+	background:#ff9999;
+	padding:30px;
+	width:100%;
+}
+#list .list_item
+{
+	background:#cce5ff; 
+	margin:10px; 
+	border-left:5px solid red;
+}
+/* heading style*/
+ .main_heading
+{
+	text-align:center;
+	font-size:75px;
+	/*font-family:bahnschriftsemibold1*/;
+	background-color:silver;
+	color:lightseagreen;
+	height:100px;
+	margin-top:10px;
+	width:100%;
+}
+/*  hobbies style*/
+.hobby_div
+{
+	margin-top:25px;
+	display:none;
+}
+.hobby_inner_div
+{
+	width:50%;
+	height:300px;
+	float:left;
+	margin-left:25px;
+	background:tomato;
+	color:white;
+	padding:25px;
+}
+.hobby_div .hobby_img
+{
+	width:20%;
+	height:300px;
+	margin-left:25px;
+}
+/*   image styling   */
+#home_div
+{
+	background:darkslategray;
+	
+}
+#home_div .para_div
+{
+	width:45%;
+	float:left;
+	margin:45px;
+	font-size:18px;
+}
+#home_div #img_div
+{
+	width:40%;
+	height:700px;
+	margin:45px;
+	border:3px solid crimson;
+}
+/*   video styliing  */
+
+#video_div
+{
+	background:silver;
+	margin-top:10px;
+	height:400px;
+}
+#video
+{
+	background:gold;
+	padding-bottom:10px;
+	padding-left:10px;
+	padding-right:10px;
+	width:50%;
+	height:400px;
+	float:right;
+	
+}
+.para1
+{
+	text-align:center;
+	font-size:50px;
+	color:white;
+	padding-top:20%;
+}
+/*  form styling   */
+#form_div
+{
+	background:lightseagreen;
+	padding:20px;
+}
+#form @table @tr
+{
+	padding:20px;
+}
